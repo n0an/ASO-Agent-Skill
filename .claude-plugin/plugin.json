@@ -1,0 +1,14 @@
+{
+  "name": "aso",
+  "description": "App Store Optimization for iOS apps: audits and writes App Store metadata, plans keywords and localizations, reviews screenshots and product pages, designs custom product pages and in-app events, sets up Apple Ads and Meta app campaigns so paid and organic work together, and reviews the App Tracking Transparency prompt and attribution",
+  "version": "1.0.0",
+  "author": {
+    "name": "Anton Novoselov",
+    "url": "https://github.com/n0an"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/n0an/ASO-Agent-Skill",
+  "skills": [
+    "./aso/"
+  ]
+}

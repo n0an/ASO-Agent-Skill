@@ -1,0 +1,8 @@
+interface:
+  display_name: "App Store Optimization"
+  short_description: "Audits and improves App Store metadata, screenshots, ads and ratings for iOS apps."
+  brand_color: "#0A84FF"
+  default_prompt: "Use $aso to audit my app's App Store listing and propose the next change."
+
+policy:
+  allow_implicit_invocation: true
